@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 📫 How to reach me 
 
 <!---
 komalaspak/komalaspak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
